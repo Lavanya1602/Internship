@@ -1,0 +1,44 @@
+label#P5_ACCOUNT_HOLDER_LABEL {
+  font-size: 14px;
+}
+
+select#P5_ACCOUNT_HOLDER {
+  height: 30px;
+  width: 220px;
+  background-color: rgb(255, 255, 255);
+  border-color:#a8adb2;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: none;
+  padding: 2px 8px;
+  font-size: 13px;
+  min-height: 25px;
+}
+
+label#P5_NAME_OF_CUSTOMER_LABEL {
+  font-size: 14px;
+}
+
+input#P5_NAME_OF_CUSTOMER {
+  height: 30px;
+  width: 220px;
+  background-color: rgb(255, 255, 255);
+  border-color:#a8adb2;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: none;
+  padding: 2px 8px;
+  font-size: 13px;
+  min-height: 25px;
+}
+
+label#P5_TENDER_DESCRIPTION_LABEL {
+  font-size: 14px;
+}
+
+input#P5_TENDER_DESCRIPTION {
+  width: 97%;
+  height: 50px;
+}
